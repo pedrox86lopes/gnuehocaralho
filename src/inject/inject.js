@@ -20,6 +20,7 @@
 		    htmlreplace("GNU[gG]", "GNU eh o caralho!!!", 'g');
 		    htmlreplace("ubuntu", "gnu eh o caralho porra!!!", 'gi');
                     htmlreplace("gnu/linux","Linux");
+                    htmlreplace("anahuac","anahue","gi");
 	    }
     }, 10);
 })();
